@@ -1,41 +1,33 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-11T08:38:28.214Z",
+  "generatedAt": "2026-11-11T09:40:49.746Z",
   "repo": {
-    "connectorId": 129,
+    "connectorId": 135,
     "repoSlug": "gunjangulatiggu/kubernetes-embedding-test",
     "baseBranch": "master"
   },
   "team": {
-    "assetId": 12351,
+    "assetId": 14115,
     "displayId": "TM-1",
-    "name": "j1"
+    "name": "RevokedToken"
   },
   "tree": [
     {
-      "assetId": 13721,
-      "displayId": "FD-5",
-      "name": "LAIS-999",
-      "kind": "folder",
-      "children": [
-        {
-          "assetId": 13781,
-          "displayId": "TC-32",
-          "name": "BrowserFileUpload",
-          "kind": "test-case",
-          "repoPath": "LAIS-999/TC-32-BrowserFileUpload.spec.ts"
-        }
-      ]
+      "assetId": 14196,
+      "displayId": "TC-3",
+      "name": "TV_Kuber",
+      "kind": "test-case",
+      "repoPath": "TC-3-TV_Kuber.spec.ts"
     }
   ],
   "files": [
     {
-      "assetId": 13781,
+      "assetId": 14196,
       "assetKind": "test-case",
-      "displayId": "TC-32",
-      "name": "BrowserFileUpload",
-      "repoPath": "LAIS-999/TC-32-BrowserFileUpload.spec.ts",
-      "parentAssetId": 13721
+      "displayId": "TC-3",
+      "name": "TV_Kuber",
+      "repoPath": "TC-3-TV_Kuber.spec.ts",
+      "parentAssetId": 14115
     }
   ]
 }
