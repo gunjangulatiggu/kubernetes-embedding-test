@@ -1,48 +1,56 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-11T09:45:05.358Z",
+  "generatedAt": "2026-11-11T12:20:19.273Z",
   "repo": {
-    "connectorId": 136,
+    "connectorId": 129,
     "repoSlug": "gunjangulatiggu/kubernetes-embedding-test",
     "baseBranch": "master"
   },
   "team": {
-    "assetId": 14115,
+    "assetId": 12351,
     "displayId": "TM-1",
-    "name": "RevokedToken"
+    "name": "j1"
   },
   "tree": [
     {
-      "assetId": 14172,
-      "displayId": "TC-1",
-      "name": "New test case1",
-      "kind": "test-case",
-      "repoPath": "TC-1-New-test-case1.spec.ts"
-    },
-    {
-      "assetId": 14195,
-      "displayId": "TC-2",
-      "name": "TC1_RevokedTokenTeam",
-      "kind": "test-case",
-      "repoPath": "TC-2-TC1_RevokedTokenTeam.spec.ts"
+      "assetId": 13721,
+      "displayId": "FD-5",
+      "name": "LAIS-999",
+      "kind": "folder",
+      "children": [
+        {
+          "assetId": 13781,
+          "displayId": "TC-32",
+          "name": "BrowserFileUpload",
+          "kind": "test-case",
+          "repoPath": "LAIS-999/TC-32-BrowserFileUpload.spec.ts"
+        },
+        {
+          "assetId": 13728,
+          "displayId": "TC-31",
+          "name": "FileTest",
+          "kind": "test-case",
+          "repoPath": "LAIS-999/TC-31-FileTest.spec.ts"
+        }
+      ]
     }
   ],
   "files": [
     {
-      "assetId": 14172,
+      "assetId": 13728,
       "assetKind": "test-case",
-      "displayId": "TC-1",
-      "name": "New test case1",
-      "repoPath": "TC-1-New-test-case1.spec.ts",
-      "parentAssetId": 14115
+      "displayId": "TC-31",
+      "name": "FileTest",
+      "repoPath": "LAIS-999/TC-31-FileTest.spec.ts",
+      "parentAssetId": 13721
     },
     {
-      "assetId": 14195,
+      "assetId": 13781,
       "assetKind": "test-case",
-      "displayId": "TC-2",
-      "name": "TC1_RevokedTokenTeam",
-      "repoPath": "TC-2-TC1_RevokedTokenTeam.spec.ts",
-      "parentAssetId": 14115
+      "displayId": "TC-32",
+      "name": "BrowserFileUpload",
+      "repoPath": "LAIS-999/TC-32-BrowserFileUpload.spec.ts",
+      "parentAssetId": 13721
     }
   ]
 }
