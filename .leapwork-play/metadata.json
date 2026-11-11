@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-11T08:38:28.214Z",
+  "repo": {
+    "connectorId": 129,
+    "repoSlug": "gunjangulatiggu/kubernetes-embedding-test",
+    "baseBranch": "master"
+  },
+  "team": {
+    "assetId": 12351,
+    "displayId": "TM-1",
+    "name": "j1"
+  },
+  "tree": [
+    {
+      "assetId": 13721,
+      "displayId": "FD-5",
+      "name": "LAIS-999",
+      "kind": "folder",
+      "children": [
+        {
+          "assetId": 13781,
+          "displayId": "TC-32",
+          "name": "BrowserFileUpload",
+          "kind": "test-case",
+          "repoPath": "LAIS-999/TC-32-BrowserFileUpload.spec.ts"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "assetId": 13781,
+      "assetKind": "test-case",
+      "displayId": "TC-32",
+      "name": "BrowserFileUpload",
+      "repoPath": "LAIS-999/TC-32-BrowserFileUpload.spec.ts",
+      "parentAssetId": 13721
+    }
+  ]
+}
