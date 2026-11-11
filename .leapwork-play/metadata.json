@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-11T09:40:49.746Z",
+  "generatedAt": "2026-11-11T09:45:05.358Z",
   "repo": {
-    "connectorId": 135,
+    "connectorId": 136,
     "repoSlug": "gunjangulatiggu/kubernetes-embedding-test",
     "baseBranch": "master"
   },
@@ -13,20 +13,35 @@
   },
   "tree": [
     {
-      "assetId": 14196,
-      "displayId": "TC-3",
-      "name": "TV_Kuber",
+      "assetId": 14172,
+      "displayId": "TC-1",
+      "name": "New test case1",
       "kind": "test-case",
-      "repoPath": "TC-3-TV_Kuber.spec.ts"
+      "repoPath": "TC-1-New-test-case1.spec.ts"
+    },
+    {
+      "assetId": 14195,
+      "displayId": "TC-2",
+      "name": "TC1_RevokedTokenTeam",
+      "kind": "test-case",
+      "repoPath": "TC-2-TC1_RevokedTokenTeam.spec.ts"
     }
   ],
   "files": [
     {
-      "assetId": 14196,
+      "assetId": 14172,
       "assetKind": "test-case",
-      "displayId": "TC-3",
-      "name": "TV_Kuber",
-      "repoPath": "TC-3-TV_Kuber.spec.ts",
+      "displayId": "TC-1",
+      "name": "New test case1",
+      "repoPath": "TC-1-New-test-case1.spec.ts",
+      "parentAssetId": 14115
+    },
+    {
+      "assetId": 14195,
+      "assetKind": "test-case",
+      "displayId": "TC-2",
+      "name": "TC1_RevokedTokenTeam",
+      "repoPath": "TC-2-TC1_RevokedTokenTeam.spec.ts",
       "parentAssetId": 14115
     }
   ]
